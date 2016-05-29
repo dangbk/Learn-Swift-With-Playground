@@ -22,10 +22,10 @@ enum CompassPoint {
  */
 
 print("Value of \(CompassPoint.North) is \(CompassPoint.North.hashValue)")
-// Value of North is 0
+// Prints "Value of North is 0"
 
 print("Value of \(CompassPoint.West) is \(CompassPoint.West.hashValue)")
-// Value of West is 3
+// Prints "Value of West is 3"
 
 
 /********** 2nd Example  *************/
@@ -53,13 +53,13 @@ enum Season: Int {
 }
 
 print("Value of \(Season.Spring) is \(Season.Spring.rawValue)")
-// Value of Spring is 0
+// Prints "Value of Spring is 0"
 
 print("Value of \(Season.Summer) is \(Season.Summer.rawValue)")
-// Value of Summer is 1
+// Prints "Value of Summer is 1"
 
 print("Value of \(Season.Winter) is \(Season.Winter.rawValue)")
-// Value of Winter is 7
+// Prints "Value of Winter is 7"
 
 
 /********** 3rd Example  *************/
@@ -140,15 +140,15 @@ enum PostalCode {
 
 // Paris 13e
 let paris13eDetail = PostalCode.Detail(cityCode: 75000, localCode: 13)
-
-// 75013
 print(paris13eDetail.toString())
+// Prints "75013"
 
 // Paris 20e
 let paris20eBrief = PostalCode.Brief("75020")
-
 print(paris20eBrief.toString())
+// Prints "75020"
 
+// Create a detail postal code
 let paris20eDetail = paris20eBrief.toDetail()
 
 

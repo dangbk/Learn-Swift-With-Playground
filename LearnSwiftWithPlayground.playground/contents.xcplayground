@@ -11,5 +11,6 @@
         <page name='Collections'/>
         <page name='StringAndRegularExpression'/>
         <page name='ClosuresAndFunctions'/>
+        <page name='Promise'/>
     </pages>
 </playground>

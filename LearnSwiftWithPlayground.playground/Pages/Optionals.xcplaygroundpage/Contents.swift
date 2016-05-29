@@ -1,7 +1,1 @@
-//: [Previous](@previous)
-
-import Foundation
-
-var str = "Hello, playground"
-
-//: [Next](@next)
+//Optional variable is nil by default
