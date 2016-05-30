@@ -12,5 +12,10 @@
         <page name='StringAndRegularExpression'/>
         <page name='ClosuresAndFunctions'/>
         <page name='Promise'/>
+        <page name='Lazy'/>
+        <page name='NSCoder'/>
+        <page name='ControlFlow'/>
+        <page name='ARC'/>
+        <page name='URLPatternMatching'/>
     </pages>
 </playground>
