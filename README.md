@@ -8,7 +8,7 @@ This is my personal repository for learning swift syntax and experimenting new f
 * [Don't Make Me Think] (http://www.amazon.com/dp/0321965515/ref=pd_lpo_sbs_dp_ss_1?pf_rd_p=1944687642&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=0321344758&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=1RV21M1BYZ84T87TJ1FM) (By Steve Krug) (About UX design)
 
 **List of subjects:**
-* [Enums] (https://github.com/ntnhon/Learn-Swift-With-Playground/blob/master/LearnSwiftWithPlayground.playground/Pages/Enum.xcplaygroundpage/Contents.swift) (temporarily done)
+* [Enums] (https://github.com/ntnhon/Learn-Swift-With-Playground/blob/master/LearnSwiftWithPlayground.playground/Pages/Enum.xcplaygroundpage/Contents.swift) (done)
 * [Error handling] (https://github.com/ntnhon/Learn-Swift-With-Playground/blob/master/LearnSwiftWithPlayground.playground/Pages/ErrorHandling.xcplaygroundpage/Contents.swift) (to do)
 * [Class] (https://github.com/ntnhon/Learn-Swift-With-Playground/blob/master/LearnSwiftWithPlayground.playground/Pages/Class.xcplaygroundpage/Contents.swift) (to do)
 * [Protocols] (https://github.com/ntnhon/Learn-Swift-With-Playground/blob/master/LearnSwiftWithPlayground.playground/Pages/Protocols.xcplaygroundpage/Contents.swift) (to do)
