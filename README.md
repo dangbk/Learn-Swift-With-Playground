@@ -19,3 +19,8 @@ This is my personal repository for learning swift syntax and experimenting new f
 * [String and regular expression] (https://github.com/ntnhon/Learn-Swift-With-Playground/blob/master/LearnSwiftWithPlayground.playground/Pages/StringAndRegularExpression.xcplaygroundpage/Contents.swift) (to do)
 * [Closures and functions] (https://github.com/ntnhon/Learn-Swift-With-Playground/blob/master/LearnSwiftWithPlayground.playground/Pages/ClosuresAndFunctions.xcplaygroundpage/Contents.swift) (to do)
 * [Promise] (https://github.com/ntnhon/Learn-Swift-With-Playground/blob/master/LearnSwiftWithPlayground.playground/Pages/Promise.xcplaygroundpage/Contents.swift) (to do)
+* [Lazy] () (done)
+* [NSCoder] () (to do)
+* [Control Flow] () (to do)
+* [ARC] () (to do)
+* [URL pattern matching] () (to do)
