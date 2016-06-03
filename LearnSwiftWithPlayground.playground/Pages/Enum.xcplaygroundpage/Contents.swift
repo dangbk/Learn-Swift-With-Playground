@@ -152,3 +152,12 @@ print(paris20eBrief.toString())
 let paris20eDetail = paris20eBrief.toDetail()
 
 
+/********** 5th Example  *************/
+// Enum as a namespace containing constants
+enum Math {
+    static let e  = 2.718281828459045235360287
+    static let pi = 3.141592653589793238462643
+}
+
+Math.e
+Math.pi
