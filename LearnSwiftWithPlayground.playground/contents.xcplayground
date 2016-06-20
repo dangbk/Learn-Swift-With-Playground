@@ -17,5 +17,7 @@
         <page name='ControlFlow'/>
         <page name='ARC'/>
         <page name='URLPatternMatching'/>
+        <page name='ComputedProperties'/>
+        <page name='CurriedFunction'/>
     </pages>
 </playground>
